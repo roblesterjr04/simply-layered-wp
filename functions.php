@@ -1,5 +1,6 @@
 <?php
 
+// Simply Layered Theme
 
 function custom_theme_setup() {
 	add_theme_support('post-thumbnails');
